@@ -1,2 +1,2 @@
 # Simple-ChatRoom
-This is a project for beginner
+This is a project for beginners
